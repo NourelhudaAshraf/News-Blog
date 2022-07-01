@@ -1,0 +1,3 @@
+﻿  NewsApp.cpp
+D:\Projects\DS_Projects\final\Final DS Project\Final DS Project\NewsApp.cpp(28,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Final DS Project.vcxproj -> D:\Projects\DS_Projects\final\Final DS Project\x64\Debug\Final DS Project.exe
